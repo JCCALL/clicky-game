@@ -1,0 +1,9 @@
+@font-face {
+    font-family: avatar;
+    src: url("./herculanum.ttf");
+}
+
+.navbar{
+    font-family: avatar;
+    font-size: 35px;
+}

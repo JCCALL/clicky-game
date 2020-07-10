@@ -1,0 +1,12 @@
+.wrapper {
+    background-image: url("../images/background.jpg");
+    background-size: auto;
+    min-height: 75vh;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    flex-wrap: wrap; 
+}    

@@ -1,0 +1,16 @@
+@font-face{
+    font-family: avatar;
+    src: url("./herculanum.ttf");
+}
+
+.footer{
+    font-family: avatar;
+    background-color: #f1e6b4;
+    height: 100px;
+    width: 100%;
+}
+
+.footer-title {
+    bottom: 0;
+    font-size: 22px;
+}

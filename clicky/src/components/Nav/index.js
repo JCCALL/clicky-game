@@ -6,7 +6,7 @@ function Nav(props) {
         <nav className="navbar">
             <div className="col-4 text-center">Clicky Game</div>
             <div className="col-4 text-center">{props.message}</div>
-            <div className="col-4 text-center">Score: {props.score} Highscore: {props.highScore}</div>
+            <div className="col-4 text-center">Score: {props.score} | Highscore: {props.highScore}</div>
         </nav>
     );
 }
